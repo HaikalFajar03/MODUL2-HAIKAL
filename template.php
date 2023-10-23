@@ -1,6 +1,6 @@
 <?php
 
-// **********************  1  ************************** 
+// **********************  1  *************************
 // ========== tangkap nilai tinggi_badan dan berat_badan yang ada pada form html
 // silakan taruh code kalian di bawa
 // **********************  1  ************************** 
